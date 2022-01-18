@@ -4,7 +4,7 @@
 - 👩‍🏫 I'm a web development instructor at [Cornerstone College](https://ciccc.ca/)
 - 🔭 Sometimes helping [Boost Note](https://github.com/BoostIO/BoostNote-App)
 - 📫 How to reach me elle.kasai@gmail.com
-- 👩‍💻 All of my projects are available at [my portfolio website](https://ellekasai.com/)
+- 👩‍💻 All of my projects are available on [my portfolio website](https://ellekasai.com/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ellekasai)
 - ⚡ Fun fact, I'm also a [gaming YouTuber](https://youtu.be/hmEdopaqULE)
 
