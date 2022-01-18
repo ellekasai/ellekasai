@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elle Kasai</h1>
 <h3 align="center">UI/UX Developer who really like to keep things neat and minimal ✨</h3>
 
-- 🔭 I’m currently working on [Boost Note](https://github.com/BoostIO/BoostNote-App)
+- 👩‍🏫 I'm a web development instructor at [Cornerstone College](https://ciccc.ca/)
+- 🔭 Sometimes helping [Boost Note](https://github.com/BoostIO/BoostNote-App)
 - 📫 How to reach me elle.kasai@gmail.com
 - 👩‍💻 All of my projects are available at [my portfolio website](https://ellekasai.com/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ellekasai)
-- ⚡ Fun fact I'm also a [gaming YouTuber](https://youtu.be/hmEdopaqULE) ;)
+- ⚡ Fun fact, I'm also a [gaming YouTuber](https://youtu.be/hmEdopaqULE)
 
 <h3 align="left">Languages & Other Tools:</h3>
 <p align="left">
