@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elle Kasai</h1>
+<h1 align="center">Hi, I'm Elle Kasai 👋</h1>
 <h3 align="center">UI/UX Developer who really like to keep things neat and minimal ✨</h3>
 
 - 👩‍🏫 I'm a web development instructor at [Cornerstone College](https://ciccc.ca/)
