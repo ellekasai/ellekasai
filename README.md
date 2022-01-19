@@ -6,6 +6,7 @@
 - 📫 How to reach me elle.kasai@gmail.com
 - 👩‍💻 All of my projects are available on [my portfolio website](https://ellekasai.com/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ellekasai)
+- ⚡ Fun fact, I'm also a [gaming YouTuber](https://youtu.be/hmEdopaqULE)
 
 <h3 align="left">Languages & Other Tools:</h3>
 <p align="left">
