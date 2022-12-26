@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elle Kasai 👋</h1>
 <h3 align="center">UI/UX Developer who really like to keep things neat and minimal ✨</h3>
 
-- 👩‍🏫 I'm a web development instructor at [Cornerstone College](https://ciccc.ca/)
+- 👩‍🏫 I'm UI/UX design program manager at [Cornerstone College](https://ciccc.ca/)
 - 🔭 Sometimes helping [Boost Note](https://github.com/BoostIO/BoostNote-App)
 - 📫 How to reach me elle.kasai@gmail.com
 - 👩‍💻 All of my projects are available on [my portfolio website](https://ellekasai.com/)
